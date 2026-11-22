@@ -1,0 +1,49 @@
+body {
+    background-color: #9ebaf5;
+    padding: 20px;
+}
+
+h1 {
+    color: #2e3e77;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #1d2d68;
+    font-family: Georgia, serif;
+    padding: 10px;
+}
+
+h2 {
+    color: #1d2d68;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+h3 {
+    color: #1d2d68;
+    font-family: Georgia, serif;
+    padding: 10px;
+}
+
+div {
+    width: 250px;
+    height: 100px;
+    background-color: #9ebaf5;
+    border: 3px solid #1d2e68;
+    padding: 20px;
+    margin: 25px;
+}
+
+ul {
+    color: #1d2d68;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+a {
+    color: #293559;
+    font-weight: bold;
+}
+
